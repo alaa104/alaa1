@@ -1,0 +1,236 @@
+
+.mywidth{
+    
+    width: 120px;
+    height: 120px;
+    
+    
+}
+
+/********************/
+
+
+/*language*/
+
+#language{
+    
+    background-image: url(../proj/backg19.jpg);
+    
+    padding-top: 50px;
+    
+    padding-bottom: 50px;
+}
+
+
+
+.card-body{
+    
+    background-color: #fdcb6e;
+    
+    border-color: #fdcb6e;
+   
+}
+
+.conl{
+    
+    padding-top: 100px;
+    
+    padding-bottom: 50px;
+    
+   padding-left: 400px;
+    
+   
+    
+}
+
+.lang1{
+    
+    text-align: center;
+    
+    
+    padding-top: 50px;
+}
+
+.colsg{
+    
+    color: #fa8231;
+}
+
+.rowpad{
+    
+    padding-top: 100px;
+}
+
+.hand1{
+    
+    
+    padding-left: 100px;
+    
+    color: #e74c3c;
+    
+    line-height: 70px;
+}
+
+.hand2{
+    
+    
+    padding-left: 100px;
+    
+    color: #6F1E51;
+    
+    line-height: 70px;
+}
+
+.hand3{
+    
+    
+    padding-left: 100px;
+    
+    color: #EE5A24;
+    
+    line-height: 70px;
+}
+
+.hand4{
+    
+    padding-left: 100px;
+    
+    color: #218c74;
+    
+    line-height: 70px;
+    
+}
+
+.pl{
+    
+    
+    font-size: 20px;
+    
+    text-align: center;
+}
+
+.pl1{
+    
+    
+    font-size: 20px;
+    
+    text-align: center;
+}
+
+
+/********************/
+
+
+#news{
+    
+    
+   /* background-image: url(../proj/backg11.jpg);*/
+    
+    background-color: #dcdde1;
+    
+    background-repeat: no-repeat;
+    
+    background-size: cover;
+    
+    padding-bottom: 50px;
+    
+    
+}
+
+
+
+.img-thumbnail{
+    
+    
+    width: 250px;
+    
+    height: 200px;
+}
+
+
+.lihig{
+    
+    line-height: 50px;
+}
+
+#communecat{
+    
+    
+    background-color: #8395a7;
+    
+    background-repeat: no-repeat;
+    
+    background-size: cover;
+    
+    padding-bottom: 50px;
+    
+}
+
+.textle{
+    
+    
+    padding-bottom: 30px;
+    
+    background-color: ;
+}
+
+
+.paddform{
+    
+    padding-top: 30px;
+    
+}
+
+.paddul{
+    
+    padding-top: 50px;
+}
+
+.btn-primary{
+    
+    background-color: #ff9ff3;
+    
+    color: #222f3e;
+}
+
+a{
+    
+    color: #ff9ff3;
+}
+
+.myspan1{
+    
+    background-color: #FDA7DF;
+}
+
+#footer1{
+    
+    background-color: #3c6382;
+}
+
+
+#btnScroll{
+    
+    display: none;
+
+    position: fixed;
+    
+    bottom: 30px;
+    
+    right: 40px;
+    
+    z-index: 99;
+    
+    cursor: pointer;
+    
+    padding: 16px;
+    
+    
+}
+
+.btn-warning{
+    
+    
+    background-color: #feca57;
+}
+
